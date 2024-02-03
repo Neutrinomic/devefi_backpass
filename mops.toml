@@ -2,3 +2,4 @@
 base = "0.10.2"
 devefi-icrc-reader = "1.0.2"
 devefi-icrc-sender = "1.0.2"
+vector = "0.2.0"
